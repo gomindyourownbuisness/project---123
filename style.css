@@ -1,0 +1,39 @@
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note
+{
+    font-size: 15px;
+    color: brown;
+}
+
+.copy-right-footer
+{
+    position: fixed;
+    bottom: 0px;
+    background-color: darkgoldenrod;
+    color: black;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+}
+
+canvas
+{
+ border: 5px solid white;
+ border-radius: 20px;
+ box-shadow: 5px 5px 5px lightblue;
+ margin-top: 20px;
+}
+
+body
+{
+    background-image: url("wallpapersden.com_colorful-simple-landscape-paint-art_2560x1440.jpg");   
+    background-size: cover;
+
+}
